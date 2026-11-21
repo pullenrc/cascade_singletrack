@@ -1,0 +1,12 @@
+# FreeCAD backup/autosave files
+*.FCBak
+*.FCStd1
+*.FCStd2
+
+# Arduino build output
+build/
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
