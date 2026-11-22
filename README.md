@@ -13,7 +13,7 @@ Cascade Singletrack is a mountain bike channel about Central Oregon trails, hone
 
 | Project | What it is | Status | Video |
 |---|---|---|---|
-| [**Trace Static**](trace-static/Trace_S_README.md) | DIY sag measurement tool. Clip it on, sit on the bike, and read front or rear sag in mm and % on your phone. XIAO ESP32-C6, 3D-printed parts, FreeCAD source. | ✅ v2 released | [Watch](YOUTUBE_VIDEO_LINK) |
+| [**Trace Static**](trace-static/Trace_S_README.md) | DIY sag measurement tool. Clip it on, sit on the bike, and read front or rear sag in mm and % on your phone. XIAO ESP32-C6, 3D-printed parts, FreeCAD source. | ✅ v2 released | [Watch](https://www.youtube.com/watch?v=8sSZrACNr4Q) |
 | **Trace** | Suspension logger that records what your fork and shock actually do on the trail. | 🔧 In development | Coming soon |
 
 More projects get added as they come off the bench. [Subscribe](https://www.youtube.com/@CascadeSingletrack/videos) to catch the build videos.
